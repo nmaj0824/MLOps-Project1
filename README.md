@@ -1,2 +1,2 @@
 # MLOps-Project1
-This is  MLOps Project based on Vehicle Insurance 
+This is  MLOps Project used for Vehicle Insurance 
