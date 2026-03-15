@@ -158,8 +158,7 @@ vehicle_project
 └── README.md
 ```
 
----
- Project Setup and Structure
+📁 Project Setup and Structure
 Step 1: Project Template
 Start by executing the template.py file to create the initial project template, which includes the required folder structure and placeholder files.
 Step 2: Package Management
@@ -245,6 +244,6 @@ Access the deployed app by visiting http://<public_ip>:5080.
 Crash Course on setup.py and pyproject.toml: See crashcourse.txt for details.
 GitHub Secrets: Manage secrets for secure CI/CD pipelines.
 🎯 Project Workflow Summary
-Data Ingestion ➔ Data Validation ➔ Data Transformation 
+Data Ingestion ➔ Data Validation ➔ Data Transformation
 Model Training ➔ Model Evaluation ➔ Model Deployment
 CI/CD Automation with GitHub Actions, Docker, AWS EC2, and ECR
